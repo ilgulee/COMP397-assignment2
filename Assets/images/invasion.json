@@ -1,0 +1,34 @@
+{
+
+"images": [
+    "invasion.png"
+],
+
+"frames": [
+    [1, 1, 69, 71, 0, 0, 0],
+    [72, 1, 97, 69, 0, -1, -1],
+    [1, 74, 129, 111, 0, 0, 0],
+    [1, 187, 157, 154, 0, 0, 0],
+    [1, 343, 166, 154, 0, 0, 0],
+    [1, 499, 172, 163, 0, 0, 0],
+    [1, 664, 176, 175, 0, 0, 0],
+    [1, 841, 180, 180, 0, 0, 0]
+],
+
+"animations": {
+    "exp1": { "frames": [0] },
+    "invader": { "frames": [1] },
+    "exp2": { "frames": [2] },
+    "exp7": { "frames": [3] },
+    "exp3": { "frames": [4] },
+    "exp6": { "frames": [5] },
+    "exp5": { "frames": [6] },
+    "exp4": { "frames": [7] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:589a6aa70b058f6b30d887487c05fa75:93bdd7a3108d6d77e0ea953bde61567f:b3119ab32ae83ffff15c70ca2801b717$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
